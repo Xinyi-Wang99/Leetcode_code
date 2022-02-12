@@ -8,4 +8,5 @@ Question ID | Question Name | Difficulty | Acceptance | Status | Runtime | Memor
 1 | [Two Sum](https://github.com/Xinyi-Wang99/Leetcode_code/blob/main/String/twoSum.java) | <font color = green> Easy </font> | 47.0% | ✅ | 49ms  | 39MB | 3ms | 39.7MB
 2 | [Merge Sorted Array](https://github.com/Xinyi-Wang99/Leetcode_code/blob/main/String/mergeSortedArray.java) | <font color = green> Easy </font> | 41.0% | ✅ | 0ms | 39MB | 0ms | 39.6MB
 3 | [Plus One]() | <font color = green> Easy </font> | 42.2% | ✅ | 0ms | 37.3MB | Basically same idea | No updated version
+4 | [Valid Sudoku]() | <font color = orange> Medium </font> | 54.3% | :x: |  |  | | saw answer
 
