@@ -1,7 +1,7 @@
 # Array
 
 
-This is a solution summary of what I did for topic String
+This is a solution summary of what I did for topic Array 
 
 Question ID | Question Name | Difficulty | Acceptance | Status | Runtime | Memory | Updated Runtime | Updated Memory
 :---------: | :-----------: | :--------: | :--------: | :----: | :-----: | :----: | :-------------: | :------------:
