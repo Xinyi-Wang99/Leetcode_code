@@ -13,6 +13,7 @@
 class Solution:
     def firstUniqChar(self, s: str) -> int:
         uniqueS = set(s)
+        # initialize a dictionary with the initial value
         counter = dict.fromkeys(uniqueS, 0)
         indexcur = dict.fromkeys(uniqueS, len(s))
         # reversed a string
