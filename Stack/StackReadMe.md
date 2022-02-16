@@ -21,3 +21,4 @@ This is a solution summary of what I did for topic Linked List
 Question ID | Question Name | Difficulty | Acceptance | Status | Runtime | Memory | Updated Runtime | Updated Memory
 :---------: | :-----------: | :--------: | :--------: | :----: | :-----: | :----: | :-------------: | :------------:
 1 | [Valid Parentheses] | <font color = green> Easy </font> | 40.6% | ✅ | 36ms | 14MB | | |
+1 | [Implement Queue using Stacks] | <font color = green> Easy </font> | 56.9% | ✅ | 33ms | 14MB | | |
