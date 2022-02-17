@@ -18,3 +18,4 @@ Question ID | Question Name | Difficulty | Acceptance | Status | Runtime | Memor
 1 | [Binary Tree Preorder Traversal] | <font color = green> Easy </font> | 40.6% | ✅ | 36ms | 13.8MB | | |
 2 | [Binary Tree Preorder Traversal] | <font color = green> Easy </font> | 40.6% | ✅ | 36ms | 14MB | | |
 3 | [Binary Tree Preorder Traversal] | <font color = green> Easy </font> | 40.6% | ✅ | 36ms | 14MB | | |
+4 | [Binary Tree Level Order Traversal] | <font color = orange> Medium </font> | 60.2% | ✅ | 61ms | 14.1MB | | |
