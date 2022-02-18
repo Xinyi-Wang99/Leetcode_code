@@ -9,16 +9,19 @@
 # Here's other people's solution:
 
 # iteratively
-# come from OldCodingFarmer
+# come from autekwing
       
 def inorderTraversal(self, root):
-    res, stack = [], []
-    while True:
-        while root:
+    rest, stack = [],[]
+    while stack or root:
+        if root:
             stack.append(root)
-            root = root.left
-        if not stack:
-            return res
-        node = stack.pop()
-        res.append(node.val)
-        root = node.right
+            root = root.left    # since this is inorder, so the left node should be ahead of the root
+                                # it's need to add after the root
+        else:
+            current = stack.pop()
+            rest.append(current.val)
+            root = current.right    # this is because if we get the current node from the stack,
+                                    # all itself and its left child has already been stored into stack
+                                    # so we need to start checking its right child
+    return rest
