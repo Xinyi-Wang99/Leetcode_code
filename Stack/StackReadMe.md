@@ -1,4 +1,4 @@
-# Linked List
+# Stack
 
 *Stack is a linear data structure that stores items in a **Last-In/First-Out** manner*
 
@@ -16,7 +16,7 @@ Stack in Python can be implemented using the following ways:
     Queue module also has a **LIFO Queue**, which is basically a Stack<br/>
     *use put() and get() to add or remove elements*
 
-This is a solution summary of what I did for topic Linked List
+This is a solution summary of what I did for topic stack
 
 Question ID | Question Name | Difficulty | Acceptance | Status | Runtime | Memory | Updated Runtime | Updated Memory
 :---------: | :-----------: | :--------: | :--------: | :----: | :-----: | :----: | :-------------: | :------------:
