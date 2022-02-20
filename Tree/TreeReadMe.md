@@ -20,3 +20,4 @@ Question ID | Question Name | Difficulty | Acceptance | Status | Runtime | Memor
 3 | [Binary Tree Postorder Traversal] | <font color = green> Easy </font> | 63.0% | ✅ | 34ms | 13.8MB | | |
 4 | [Binary Tree Level Order Traversal] | <font color = orange> Medium </font> | 60.3% | ✅ | 61ms | 14.1MB | | |
 5 | [Maximum Depth of Binary Tree] | <font color = green> Easy </font> | 71.4% | ✅ | 70ms | 16.4MB | | |
+6 | [Validate Binary Search Tree] | <font color = orange> Medium </font> | 30.2% | ✅ | 47ms | 16.4MB | | |
