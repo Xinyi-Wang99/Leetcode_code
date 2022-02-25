@@ -11,3 +11,4 @@ Question ID | Question Name | Difficulty | Acceptance | Status | Runtime | Memor
 4 | [Pascal's Triangle] | <font color = green> Easy </font> | 62.8% | ✅ | 42ms | 13.9MB
 5 | [Valid Sudoku] | <font color = orange> Medium </font> | 54.3% | :x: |  |  | | saw answer
 6 | [Search a 2D Matrix] | <font color = orange> Medium </font> | 42.3% | ✅ | 66ms | 14.5MB | | saw answer
+7 | [Single Number] | <font color = green> Easy </font> | 69.1% | ✅ | 136ms | 16.8MB | | saw answer
